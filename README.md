@@ -32,4 +32,8 @@ In city, information about urban objects such as water supply, railway lines, po
 
 ### Building Segmentation
 
+![](https://github.com/lostmartian/Building-and-Road-Segmentation-from-Aerial-Images-using-EffUNet/blob/main/images/bout.png "Building Segmentation Result")
+
 ### Road Segmentation
+
+![](https://github.com/lostmartian/Building-and-Road-Segmentation-from-Aerial-Images-using-EffUNet/blob/main/images/rout.png "Road Segmentation Result")
